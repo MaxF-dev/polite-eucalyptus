@@ -5,7 +5,11 @@ sections:
     title: >-
       We are a small and personal residential company who caters to your
       building needs
-    content: '**April 14 - 16, 2021**'
+    content: >
+      **Vast experiences in renovations , extensions ,New homes and minor
+      dwellings 
+
+      **
     actions:
       - type: action
         label: Get Your Ticket Today!
