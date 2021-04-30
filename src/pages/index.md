@@ -7,9 +7,7 @@ sections:
       building needs
     content: >
       **Vast experiences in renovations , extensions ,New homes and minor
-      dwellings 
-
-      **
+      dwellings**
     actions:
       - type: action
         label: Get Your Ticket Today!
