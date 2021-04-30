@@ -21,7 +21,7 @@
             },
             {
                 "type": "action",
-                "label": "Sponsorship",
+                "label": "Services",
                 "url": "/sponsorship",
                 "style": "link"
             },
