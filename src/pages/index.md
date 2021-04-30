@@ -10,6 +10,7 @@ sections:
       - type: action
         url: /about
         style: primary
+        label: Contact Us
     align: center
     padding_top: large
     padding_bottom: large
