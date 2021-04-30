@@ -5,7 +5,6 @@ sections:
     title: >-
       We are a small and personal residential company who caters to your
       building needs
-    subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
       - type: action
