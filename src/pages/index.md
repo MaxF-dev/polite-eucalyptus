@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: We are a small and personal residential building company
     content: >
-      **Vast experience in renovations , extensions , new homes and minor
-      dwellings**
+      **With vast experience in renovations , extensions , new homes and minor
+      dwellings, we will cater to your building needs.**
     actions:
       - type: action
         url: /about
