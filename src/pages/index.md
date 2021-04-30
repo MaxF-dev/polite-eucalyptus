@@ -15,7 +15,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/20200908_102045.jpg
-    background_image_opacity: 90
+    background_image_opacity: 80
     background_image_size: cover
   - type: grid_section
     grid_items:
