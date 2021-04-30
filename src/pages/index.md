@@ -6,7 +6,7 @@ sections:
       We are a small and personal residential company who caters to your
       building needs
     content: >
-      **Vast experiences in renovations , extensions ,New homes and minor
+      **Vast experience in renovations , extensions , new homes and minor
       dwellings**
     actions:
       - type: action
