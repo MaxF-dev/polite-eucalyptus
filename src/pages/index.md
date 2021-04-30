@@ -19,7 +19,7 @@ sections:
     background_image: /images/20200908_102045.jpg
     background_image_opacity: 75
     background_image_size: cover
-    has_border: true
+    has_border: false
   - type: grid_section
     grid_items:
       - type: grid_item
