@@ -10,7 +10,6 @@ sections:
       dwellings**
     actions:
       - type: action
-        label: Get Your Ticket Today!
         url: /about
         style: primary
     align: center
