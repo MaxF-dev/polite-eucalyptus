@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      We are a small and personal residential company who caters to your
-      building needs
+    title: We are a small and personal residential building company
     content: >
       **Vast experience in renovations , extensions , new homes and minor
       dwellings**
