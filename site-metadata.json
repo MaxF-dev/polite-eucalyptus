@@ -40,7 +40,7 @@
                 "type": "action",
                 "label": "Contact Info",
                 "url": "thank-you",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_anncmnt": false
