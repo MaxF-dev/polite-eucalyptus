@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "About",
+                "label": "About Us",
                 "url": "/about",
                 "style": "link"
             },
