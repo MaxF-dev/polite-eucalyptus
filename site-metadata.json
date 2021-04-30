@@ -38,7 +38,7 @@
             },
             {
                 "type": "action",
-                "label": "Get in touch",
+                "label": "Contact Info",
                 "url": "thank-you",
                 "style": "primary"
             }
