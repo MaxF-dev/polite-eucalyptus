@@ -27,7 +27,7 @@
             },
             {
                 "type": "action",
-                "label": "Tickets",
+                "label": "Get in touch",
                 "url": "thank-you",
                 "style": "primary"
             }
