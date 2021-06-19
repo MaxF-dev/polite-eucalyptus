@@ -155,7 +155,6 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
