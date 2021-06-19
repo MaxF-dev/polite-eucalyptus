@@ -19,8 +19,7 @@ sections:
     background_image_opacity: 75
     background_image_size: cover
     has_border: false
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
