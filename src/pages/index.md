@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We are a small and personal residential building company
+    title: New Homes and Renovations
     content: >
       **With vast experience in renovations , extensions , new homes and minor
       dwellings, we will cater to your building needs.**
