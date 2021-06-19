@@ -240,7 +240,6 @@ sections:
     background_image_position: left top
     background_image_size: cover
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
