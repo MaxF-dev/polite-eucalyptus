@@ -253,7 +253,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/frames.jpg
+    background_image: /images/hero.jpg
     background_image_opacity: 75
   - type: grid_section
     grid_items:
