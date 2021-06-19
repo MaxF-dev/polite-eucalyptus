@@ -304,7 +304,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: What People are Saying
-    subtitle: Prvious Customer
+    subtitle: Previous Customer
     grid_items:
       - type: grid_item
         content: >-
