@@ -254,7 +254,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: /images/frames.jpg
-    background_image_opacity: 100
+    background_image_opacity: 75
   - type: grid_section
     grid_items:
       - type: grid_item
