@@ -49,8 +49,6 @@ sections:
           *   Laundry
 
           *   Bedrooms
-
-          *
         content_align: left
         actions: []
         actions_align: left
