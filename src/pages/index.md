@@ -160,7 +160,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
     title: Testimonials
