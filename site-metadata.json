@@ -47,7 +47,7 @@
     },
     "footer": {
         "type": "footer",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "has_secondary_nav": false,
         "has_tertiary_nav": false,
         "has_social": false,
