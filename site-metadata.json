@@ -9,7 +9,7 @@
         "type": "header",
         "title": "Event",
         "logo": "/images/logo3.png",
-        "logo_alt": "Event logo",
+        "logo_alt": "We Build",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
