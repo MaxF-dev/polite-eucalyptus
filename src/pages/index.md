@@ -39,17 +39,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Renovate Bathrooms
 
+          *   Kitchens
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Laundry
 
+          *   Bedrooms
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *
         content_align: left
         actions: []
         actions_align: left
