@@ -22,17 +22,12 @@ sections:
   - actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Decks
 
+          *   Fences
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Retaining Walls
         content_align: left
         actions: []
         actions_align: left
