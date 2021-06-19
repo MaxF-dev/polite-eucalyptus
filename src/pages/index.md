@@ -267,41 +267,6 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: none
-  - type: features_section
-    title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
-    features:
-      - type: feature
-        title: Fast tracks Iconic Nike campaign with the JAMstack
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: right
-        media_width: sixty
-      - type: feature
-        title: 'Um, its about your JavaScript...'
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: grid_section
     title: Testimonials
     subtitle: Previous Customer
