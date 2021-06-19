@@ -220,25 +220,6 @@ sections:
     background_image_opacity: 15
     background_image_size: auto
     background_image_repeat: repeat
-  - type: cta_section
-    title: Current price is only $49. The price will increase soon!
-    actions:
-      - type: action
-        label: Contact Us
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image_opacity: 100
-    background_image_position: left top
-    background_image_size: cover
   - actions: []
     grid_items:
       - title: lorem-ipsum
