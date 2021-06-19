@@ -346,7 +346,6 @@ sections:
     background_color: none
   - type: grid_section
     title: Frequently Asked Questions
-    subtitle: Our vision
     grid_items:
       - type: grid_item
         title: How can I get to the venue?
