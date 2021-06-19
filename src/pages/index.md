@@ -239,8 +239,7 @@ sections:
     background_image_opacity: 100
     background_image_position: left top
     background_image_size: cover
-  - title: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
