@@ -241,7 +241,7 @@ sections:
     title: Current price is only $49. The price will increase soon!
     actions:
       - type: action
-        label: Get tickets
+        label: cqatnoC
         url: /thank-you
         style: primary
         has_icon: true
