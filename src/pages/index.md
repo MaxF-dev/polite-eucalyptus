@@ -16,7 +16,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: /images/hero3.jpg
-    background_image_opacity: 75
+    background_image_opacity: 100
     background_image_size: cover
     has_border: false
   - actions: []
