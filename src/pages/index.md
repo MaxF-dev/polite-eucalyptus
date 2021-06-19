@@ -239,32 +239,6 @@ sections:
     background_image_opacity: 100
     background_image_position: left top
     background_image_size: cover
-  - type: grid_section
-    grid_items:
-      - type: grid_item
-        title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
-
-          **Time:** 9:30 AM to 3:30 PM
-      - type: grid_item
-        title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
-    grid_cols: two
-    grid_gap_vert: large
-    grid_gap_horiz: medium
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
 seo:
   type: stackbit_page_meta
   title: Stackbit Event Theme
