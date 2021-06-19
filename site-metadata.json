@@ -7,7 +7,7 @@
     "base_font": "serif",
     "header": {
         "type": "header",
-        "title": "Event",
+        "title": "We Build",
         "logo": "/images/logo3.png",
         "logo_alt": "We Build Ltd.",
         "has_primary_nav": false,
