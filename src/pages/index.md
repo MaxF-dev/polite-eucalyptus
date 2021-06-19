@@ -345,33 +345,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Our Sponsors
-    subtitle: We Are Supported by Awesome Companies
-    grid_items:
-      - type: grid_item
-        image: images/stackbit.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - type: grid_item
-        image: images/netlify.svg
-        image_alt: Netlify logo
-        image_align: center
-      - type: grid_item
-        image: images/github.svg
-        image_alt: GitHub logo
-        image_align: center
-      - type: grid_item
-        image: images/sticker-mule.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-    grid_cols: four
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-  - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
     grid_items:
