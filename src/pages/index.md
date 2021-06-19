@@ -255,6 +255,7 @@ sections:
     background_color: secondary
     background_image: /images/hero.jpg
     background_image_opacity: 100
+    background_image_position: left center
   - type: grid_section
     grid_items:
       - type: grid_item
