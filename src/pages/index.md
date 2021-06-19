@@ -175,7 +175,6 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
