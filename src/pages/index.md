@@ -28,6 +28,8 @@ sections:
           *   Fences
 
           *   Retaining Walls
+
+          *   Pergolas
         content_align: left
         actions: []
         actions_align: left
